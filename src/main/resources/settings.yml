@@ -38,7 +38,7 @@ reasons:
       - "&aThere was an issue in the donation store."
       - "&aThe purchased rank requires to be manually given."
     permission: "rankgrantplus.grant"
-  promotion:
+  promotion: Owner
     slot: 2
     item: "PAPER"
     name: "&2Promotion"
